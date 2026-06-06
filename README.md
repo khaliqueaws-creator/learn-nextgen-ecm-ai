@@ -10,9 +10,8 @@ This repository supports the Django/OpenShift document-management application an
 - Embeddings
 - PostgreSQL and pgvector
 - Semantic search
-- Ollama local LLMs
+- LLMs
 - Amazon Bedrock
-- Google Gemini
 - Retrieval-Augmented Generation
 - AI metadata extraction
 - AI agents
